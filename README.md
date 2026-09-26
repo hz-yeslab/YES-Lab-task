@@ -1,4 +1,4 @@
-# YES Lab 新成员任务
+# YES Lab 新成员任务[](url)](url)](url)
 
 ## 环境
 - Ubuntu 20.04.6 LTS
@@ -21,3 +21,5 @@
 - `webwxgetmsgimg.jpg`：Ubuntu版本截图
 - `webwxgetmsgimg (1).jpg`：ROS版本截图
 - `772974073.mp4`：小海龟键盘控制录屏
+# YES Lab 新成员任务2（花瓶）
+- 姓名：黄忠<br/>- GitHub 用户名：hz-yeslab<br/>- 工具：Fusion 360<br/>- 设计说明：使用旋转（Revolve）命令自主设计的3D花瓶模型。<br/>- 附件说明：仓库内包含花瓶模型上、中、下三个视角的截图，截图已显示本人GitHub用户名。
